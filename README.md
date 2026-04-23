@@ -30,8 +30,9 @@ Open source isn't a hobby for me. It's the direction things should go.
 ## Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=deployfriday13&no-frame=true&column=7&theme=flat" />
+  <img src="https://streak-stats.demolab.com?user=deployfriday13&hide_border=true&theme=default" />
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deployfriday13&hide_border=true&theme=github" />
