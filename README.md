@@ -21,6 +21,6 @@ Just code that does what it says.
 ## Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deployfriday&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deployfriday&layout=compact&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deployfriday13&show_icons=true&hide_border=true&theme=default&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deployfriday13&layout=compact&hide_border=true&theme=default" />
 </p>
