@@ -30,7 +30,7 @@ Open source isn't a hobby for me. It's the direction things should go.
 ## Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=deployfriday13&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=deployfriday13&hide_border=true&theme=github" />
 </p>
 
 
