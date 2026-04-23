@@ -30,15 +30,6 @@ Open source isn't a hobby for me. It's the direction things should go.
 ## Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deployfriday13&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deployfriday13&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=deployfriday13&hide_border=true&theme=default" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=deployfriday13&no-frame=true&column=7&theme=flat" />
 </p>
 
